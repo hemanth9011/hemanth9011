@@ -125,16 +125,42 @@ Modern marriage bureau website with authentication and admin dashboard.
 
 ## 🌐 Connect With Me
 
+## 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://github.com/hemanth9011">
-    <img src="https://skillicons.dev/icons?i=github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
-  <a href="mailto:hemanthadapa1921@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail"/>
-  </a>
+
+<a href="https://github.com/hemanth9011">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/hemanth-adapa-374826417/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:hemanthadapa1921@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="mailto:hemanthadapa1921@gmail.com">
+<img src="https://img.shields.io/badge/Email-hemanthadapa1921%40gmail.com-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/hemanth-adapa-374826417/">
+<img src="https://img.shields.io/badge/LinkedIn-Hemanth%20Adapa-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/hemanth9011">
+<img src="https://img.shields.io/badge/GitHub-hemanth9011-black?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
 ---
