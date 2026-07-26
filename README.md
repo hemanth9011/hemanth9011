@@ -125,8 +125,6 @@ Modern marriage bureau website with authentication and admin dashboard.
 
 ## 🌐 Connect With Me
 
-## 🌐 Connect With Me
-
 <p align="center">
 
 <a href="https://github.com/hemanth9011">
