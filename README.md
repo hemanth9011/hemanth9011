@@ -67,9 +67,44 @@ goal: Software Engineer + AI Developer
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hemanth9011&theme=algolia&row=2&column=4&margin-w=15&margin-h=15&no-bg=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=hemanth9011&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
 </p>
 
+---
+
+## 🏅 Badges
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AI%20Ambassador-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NPTEL-Certified-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Python-Developer-yellow?style=for-the-badge&logo=python"/>
+
+<img src="https://img.shields.io/badge/Web-Developer-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Prompt-Engineer-purple?style=for-the-badge"/>
+
+</p>
+
+---
+
+---
+## 🥇 GitHub Achievement Badges
+<p align="center">
+
+<img src="https://img.shields.io/badge/Problem%20Solver-Expert-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Lifelong-Learner-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Enthusiast-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI-Explorer-purple?style=for-the-badge"/>
+
+</p>
 ---
 
 ## 🐍 Snake Contribution Animation
